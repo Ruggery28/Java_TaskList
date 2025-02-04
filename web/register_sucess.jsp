@@ -7,5 +7,6 @@
     </head>
     <body>
         <h1>Email registered successfully!</h1>
+        <a href="index.html">Return to Main Page</a>
     </body>
 </html>
